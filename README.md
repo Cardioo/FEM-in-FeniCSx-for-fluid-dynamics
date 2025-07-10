@@ -1,4 +1,4 @@
-# FEM-in-FeniCSx-for-fluid-dynamics
+# FEM in FeniCSx for fluid dynamics
 Este repositorio contiene los archivos .ipynb que creé para un proyecto enfocado en resolver EDPs asociadas a dinámica de fluidos usando el método de elementos finitos. Esto con el objetivo de familiarizarse con el FeniCSx para luego estudiar la estabilidad lineal de un flujo laminar e incompresible en tuberías de sección arbitraria, reproducir y ampliar la literatura actual.
 **Importante**: La mayoría de estos códigos están en bruto e iré actualizandolos para mejorar su comprensión.
 
